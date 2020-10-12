@@ -1,5 +1,5 @@
 {
-  "name": "ib-ws-proxy",
+  "name": "@nonamedigital/ib-ws-proxy",
   "version": "0.1.0",
   "private": false,
   "type": "package",
