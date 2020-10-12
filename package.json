@@ -5,6 +5,11 @@
   "type": "package",
   "main": "ib_ws.js",
   "author": "markFieldman",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nonamedigital/ib-ws-proxy.git"
+  },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "dependencies": {
     "ib": "^0.2.7",
     "uWebSockets.js": "github:uNetworking/uWebSockets.js#v18.5.0"
